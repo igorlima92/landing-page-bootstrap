@@ -1,0 +1,33 @@
+.card-largura{
+    max-width: 22rem;
+}
+
+.imagem-carrosel{
+    object-fit: cover;
+    object-position: 0 80%;
+    height: 480px;
+}
+
+.fonte-titulo{
+    font-family: 'Pacifico', cursive;
+}
+
+.color1{
+    color: darkred! important;
+    /*Foi utilizado (important) para forçar o CSS a substituir a cor padrão do Bootstrap no titulo do header*/
+}
+
+.botao-cor-especial{
+    background-color: darkred;
+    color: white;
+}
+
+.borda-cor-especial{
+    border-color: darkred;
+}
+
+.card-posicao-imagem{
+    object-fit: cover;
+    /*object-position: 0 80%;*/
+    height: 200px;
+}
