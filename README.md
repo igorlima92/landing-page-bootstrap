@@ -1,4 +1,4 @@
-# landing-page-bootstrap
+# Landing Page Bootstrap
 Landing Page com Bootstrap
 
 Primeiro projeto realizado com Bootstrap
